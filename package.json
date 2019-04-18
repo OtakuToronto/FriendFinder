@@ -1,0 +1,31 @@
+{
+  "name": "dragonballzcompatability",
+  "version": "1.0.0",
+  "description": "This is friend finder app for finding which DBZ character you are most like.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtakuToronto/FriendFinder.git"
+  },
+  "keywords": [
+    "DBZ",
+    "Dragon",
+    "Ball",
+    "Z",
+    "Friend",
+    "Finder"
+  ],
+  "author": "Holly Gronau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OtakuToronto/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/OtakuToronto/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
